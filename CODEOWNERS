@@ -1,0 +1,37 @@
+# CODEOWNERS - AlpineLight Project
+# This file defines individuals or teams that are responsible for code in the repository.
+
+# Global owner - all files default to Adrian Mateusz Sikora
+*       @ADRIANo12-12
+
+# Documentation ownership
+/docs/                          @ADRIANo12-12
+README.md                       @ADRIANo12-12
+CHANGELOG.md                    @ADRIANo12-12
+CONTRIBUTING.md                 @ADRIANo12-12
+SECURITY.md                     @ADRIANo12-12
+
+# Build system ownership
+/build-alpinelight.sh           @ADRIANo12-12
+/config/                        @ADRIANo12-12
+/scripts/                       @ADRIANo12-12
+
+# Output and release management
+/output/                        @ADRIANo12-12
+/.github/                       @ADRIANo12-12
+
+# Legal and license files
+/LICENSE                        @ADRIANo12-12
+/legal/                         @ADRIANo12-12
+
+# Configuration files
+/.gitattributes                 @ADRIANo12-12
+/.gitignore                     @ADRIANo12-12
+
+# Security-related files
+/SECURITY.md                    @ADRIANo12-12
+/security/                      @ADRIANo12-12
+
+# Branding and assets
+/brand/                         @ADRIANo12-12
+/marketing/                     @ADRIANo12-12
