@@ -1,0 +1,293 @@
+CLOSED LICENSE VC (VISIBLE CODE) 1.0
+
+AlpineLight Proprietary Source-Visible License
+§1. PREAMBLE AND DEFINITIONS
+
+1.1 "Software" refers to AlpineLight operating system comprising:
+
+    Visible Source Components: Source code made available for viewing only
+
+    Binary Components: Compiled executables, kernel objects, firmware
+
+    Build Artifacts: ISO images, disk images, installation media
+
+    Documentation: Manuals, specifications, API references
+
+    Derivative Works: Any modifications, ports, or adaptations
+
+1.2 "Licensor" means Adrian Mateusz Sikora, sole proprietor and copyright holder.
+
+1.3 "User" means any individual, organization, or entity accessing the Software.
+
+1.4 "Visible Code" means source code provided in read-only format for educational and review purposes only.
+§2. LICENSE GRANTS AND RESTRICTIONS
+
+2.1 Limited Viewing Rights
+User may:
+
+    View source code for educational purposes
+
+    Examine code structure and architecture
+
+    Learn from implementation approaches
+
+2.2 Expressly Prohibited Uses
+User shall NOT:
+
+    Copy, reproduce, or duplicate any code portions
+
+    Modify, adapt, or create derivative works
+
+    Incorporate code into other projects
+
+    Use code snippets or algorithms
+
+    Reverse engineer binary components
+
+§3. COMMERCIAL RESTRICTIONS
+
+3.1 Absolute Commercial Prohibition
+
+    No commercial use, distribution, or sale permitted
+
+    No integration into commercial products
+
+    No service offerings based on this Software
+
+    No paid support, consulting, or training services
+
+    No bundling with hardware or software products
+
+3.2 Distribution Ban
+
+    No redistribution in original or modified form
+
+    No mirroring or file-sharing
+
+    No inclusion in software collections
+
+    No torrent or P2P distribution
+
+    No physical media reproduction
+
+§4. INTELLECTUAL PROPERTY PROTECTION
+
+4.1 Copyright Retention
+All intellectual property rights remain exclusively with Adrian Mateusz Sikora including:
+
+    Copyrights on all code and documentation
+
+    Patents on novel algorithms and methods
+
+    Trade secrets in implementation details
+
+    Moral rights to be identified as author
+
+4.2 No License Grant
+This agreement grants NO:
+
+    Patent licenses
+
+    Trademark rights
+
+    Copyright permissions beyond viewing
+
+    Trade secret access
+
+§5. TECHNICAL PROTECTION MEASURES
+
+5.1 Code Obfuscation Rights
+Licensor reserves right to:
+
+    Use code obfuscation techniques
+
+    Implement anti-decompilation measures
+
+    Include license validation systems
+
+    Employ digital rights management
+
+5.2 Binary Protection
+Binary components may contain:
+
+    License verification routines
+
+    Usage monitoring capabilities
+
+    Tamper detection mechanisms
+
+    Remote disable functionality
+
+§6. PERMISSIONS AND AUTHORIZATIONS
+
+6.1 Written Consent Requirements
+All permissions require signed written agreement specifying:
+
+    Scope: Exact permitted activities
+
+    Duration: Time-limited authorization
+
+    Territory: Geographical restrictions
+
+    Compensation: Royalty and fee structure
+
+    Attribution: Required credit language
+
+6.2 Permission Categories
+
+    Educational: Academic use in controlled environments
+
+    Research: Limited research projects with oversight
+
+    Evaluation: Time-limited commercial evaluation
+
+    Development: Partner development under NDA
+
+§7. COMPLIANCE AND MONITORING
+
+7.1 Audit Rights
+Licensor may:
+
+    Conduct compliance audits with 30 days notice
+
+    Require usage reports and documentation
+
+    Install monitoring and validation systems
+
+    Access logs and usage records
+
+7.2 Integrity Verification
+User must:
+
+    Maintain access logs for 3 years
+
+    Report any security breaches immediately
+
+    Preserve evidence of compliance
+
+    Cooperate with license validation
+
+§8. ENFORCEMENT AND REMEDIES
+
+8.1 Violation Penalties
+
+    Civil Damages: €50,000 per violation instance
+
+    Statutory Damages: Up to €150,000 for willful infringement
+
+    Legal Costs: Full reimbursement of enforcement expenses
+
+    Injunctions: Immediate cessation orders
+
+8.2 Criminal Prosecution
+Willful violation may result in:
+
+    Criminal copyright infringement charges
+
+    Seizure of infringing materials
+
+    Asset forfeiture from commercial exploitation
+
+§9. TERM AND TERMINATION
+
+9.1 Automatic Termination
+This license terminates upon:
+
+    Any violation of terms
+
+    Attempted reverse engineering
+
+    Unauthorized distribution
+
+    Bankruptcy or insolvency of User
+
+9.2 Post-Termination Obligations
+Within 7 days of termination, User must:
+
+    Destroy all copies of Software
+
+    Provide sworn destruction affidavit
+
+    Remove from all storage systems
+
+    Cease all use immediately
+
+§10. LEGAL PROVISIONS
+
+10.1 Governing Law and Jurisdiction
+
+    Governing Law: Laws of Poland
+
+    Jurisdiction: Courts of Warsaw, Poland
+
+    Language: English version prevails
+
+10.2 Class Action Waiver
+No class actions, joint actions, or consolidated actions permitted. All disputes individual.
+
+10.3 Technical Support Disclaimer
+No technical support, updates, or maintenance provided unless separately contracted.
+§11. SPECIFIC USE CASE RESTRICTIONS
+
+11.1 Cloud and Hosting Restrictions
+
+    No deployment on cloud platforms (AWS, Azure, GCP)
+
+    No SaaS or PaaS offerings
+
+    No virtual machine images for public use
+
+    No containerization for distribution
+
+11.2 Embedded and IoT Restrictions
+
+    No use in embedded systems
+
+    No IoT device integration
+
+    No industrial automation use
+
+    No automotive systems integration
+
+11.3 Government and Military Restrictions
+
+    No government use without specific authorization
+
+    No military or defense applications
+
+    No critical infrastructure use
+
+    No law enforcement deployment
+
+COPYRIGHT AND NOTICES
+
+LEGAL NOTICE
+© 2024 Adrian Mateusz Sikora. All Rights Reserved Worldwide.
+
+VISIBLE CODE NOTICE
+This software utilizes Visible Code methodology. Source code is provided for viewing only. No rights to use, copy, modify, or distribute are granted.
+
+ENFORCEMENT NOTICE
+Violations will be prosecuted to the fullest extent of international copyright law. Reward offered for reporting violations.
+
+CONTACT FOR AUTHORIZATIONS
+[Official contact information for permission requests]
+
+LICENSE VERSION
+Closed License VC 1.0 - Effective [Date]
+COMPLIANCE CERTIFICATION REQUIREMENTS
+
+Organizations using this Software must maintain:
+
+    License Compliance Officer designation
+
+    Annual Compliance Audits
+
+    Employee Training Records
+
+    Access Control Documentation
+
+    Incident Response Plan
+
+ACKNOWLEDGEMENT
+BY VIEWING, ACCESSING, OR USING THIS SOFTWARE, USER ACKNOWLEDGES HAVING READ, UNDERSTOOD, AND AGREED TO BE BOUND BY ALL TERMS AND CONDITIONS OF THIS CLOSED LICENSE VC 1.0
