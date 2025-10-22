@@ -1,0 +1,246 @@
+# AlpineLight .gitignore
+# Copyright (c) 2024 Adrian Mateusz Sikora
+
+# ================================
+# BUILD ARTIFACTS
+# ================================
+
+# Build directories
+/build/
+/iso/
+/rootfs/
+/tmp-build/
+
+# Output directories (except final ISOs tracked by LFS)
+/output/*
+!/output/*.iso
+
+# Kernel build files
+/vmlinuz*
+/initramfs*
+/System.map*
+/config-*
+
+# Object files and binaries
+*.o
+*.ko
+*.a
+*.so
+*.la
+*.lo
+
+# ================================
+# PACKAGE MANAGER
+# ================================
+
+# APK cache and packages
+/var/cache/apk/*
+*.apk
+*.apk.new
+/packages/
+/apk/
+
+# Package manager state
+/lib/apk/db/
+/etc/apk/world
+/etc/apk/arch
+
+# ================================
+# SYSTEM FILES
+# ================================
+
+# System temporary files
+/tmp/*
+/var/tmp/*
+
+# Log files
+/var/log/*
+*.log
+logs/
+*.log.*
+
+# Runtime data
+/run/*
+/var/run/*
+
+# Device files
+/dev/*
+/proc/*
+/sys/*
+
+# ================================
+# DEVELOPMENT TOOLS
+# ================================
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-*
+
+# Patch files
+*.patch
+*.diff
+*.rej
+*.orig
+
+# ================================
+# VERSION CONTROL
+# ================================
+
+# Git but keep minimal config
+/.git/*
+!/.gitattributes
+!/.gitignore
+
+# Git LFS
+/.lfs*/
+
+# ================================
+# DOCUMENTATION GENERATED
+# ================================
+
+# Generated documentation
+/docs/_build/
+/docs/_generated/
+*.aux
+*.toc
+*.out
+
+# ================================
+# ISO AND DISK IMAGES
+# ================================
+
+# Ignore all ISO except final builds
+*.iso
+!output/alpinelight-*.iso
+
+# Disk images
+*.img
+*.qcow2
+*.vmdk
+*.vdi
+
+# ================================
+# CACHE AND TEMPORARY
+# ================================
+
+# Cache directories
+.cache/
+cache/
+
+# Temporary build files
+*~
+*.tmp
+*.temp
+.*.tmp
+
+# ================================
+# USER DATA AND CONFIG
+# ================================
+
+# User configuration
+.config/
+*.user
+*.userprefs
+
+# Custom user data
+/custom/
+/user-data/
+
+# ================================
+# SECURITY SENSITIVE
+# ================================
+
+# Keys and certificates
+*.key
+*.pem
+*.crt
+*.csr
+*.keystore
+*.jks
+
+# Passwords and secrets
+*.passwd
+*password*
+*secret*
+*private*
+
+# SSH keys
+id_rsa*
+id_dsa*
+id_ecdsa*
+id_ed25519*
+
+# ================================
+# PROJECT SPECIFIC
+# ================================
+
+# AlpineLight specific build artifacts
+/alpine-work/
+/minirootfs*/
+/staging/
+
+# Custom kernel builds
+/kernel-build/
+/modules/
+
+# Initramfs builds
+/initrd*
+/initramfs*
+
+# Bootloader files
+/isolinux/
+/syslinux/
+/grub/
+/boot/grub/
+
+# ================================
+# BACKUP FILES
+# ================================
+
+# Backup files
+*.bak
+*.backup
+*.old
+*_backup
+
+# System backups
+/backup/
+*.tar
+*.tar.gz
+*.tgz
+
+# ================================
+# COMPRESSED ARCHIVES
+# ================================
+
+# Compressed files (except our rootfs)
+*.gz
+*.bz2
+*.xz
+*.zip
+*.7z
+!*.tar.gz  # Allow rootfs tarballs
+
+# ================================
+# MISC
+# ================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+.directory
+.trash-*
+
+# End of .gitignore
