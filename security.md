@@ -17,7 +17,7 @@ If you discover a security vulnerability in AlpineLight, please follow these ste
 
 1. **DO NOT** disclose the vulnerability publicly
 2. **DO NOT** create a public GitHub issue
-3. **Email** security details to: [YOUR SECURITY EMAIL]
+3. **Email** security details to: [adrian.sikora.sluzbowy@gmail.com]
 4. **Include** in your report:
    - AlpineLight version affected
    - Detailed description of the vulnerability
@@ -86,4 +86,4 @@ This security policy covers:
 
 ---
 
-*This security policy is subject to change without notice. Last updated: 2024-01-01*
+*This security policy is subject to change without notice. Last updated: 2025-22-10 -- Year/Month/Day*
